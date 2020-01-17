@@ -1,4 +1,5 @@
-# Joomla-3.4.6---configuration.php-Remote-Code-Execution
+# Joomla-3.4.6 --- configuration.php-远程代码执行
+
 影响范围：3.0.0-3.4.6
 1、漏洞验证
 
