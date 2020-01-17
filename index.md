@@ -70,6 +70,9 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 
 I.[phpweb前台任意文件上传-getshell](https://www.buaq.net/go-19673.html) 
 
+I.[Phpweb-Getshell-py](https://github.com/xiazibet/super-guacamole/tree/master/Phpweb-Getshell-py) 
+
+
 I.[实战测试有人聚合盒子顺手挖了个getshell漏洞](https://forum.90sec.com/t/topic/668)
 
 I.[记一次对众测项目的弱口令到xss到getshell](https://mp.weixin.qq.com/s/60EkxMCXBKMx7pMGZrgCaQ)
