@@ -10,6 +10,8 @@ The old one is [here](http://www.nmd5.com)
 
 new TG @joker_qian
 
+K8哥哥’s Blog (http://k8gege.org/) 
+
 ## 请善用搜索[`Ctrl+F`]查找   
 搜集有关渗透测试中用python编写的POC、脚本 、文章
 
