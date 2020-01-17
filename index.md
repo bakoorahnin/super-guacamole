@@ -119,7 +119,7 @@ I.[代码审计之seacms v6.54 前台Getshell 复现分析](https://www.icode9.c
 
 I.[Joomla-3.4.6 --- configuration.php-远程代码执行](https://github.com/xiazibet/super-guacamole/tree/master/Joomla-3.4.6---configuration.php-Remote-Code-Execution-master)
 
-
+I.[vBulletin-5.x-0day-pre-auth-RCE漏洞](https://github.com/xiazibet/super-guacamole/tree/master/vBulletin-5.x-0day-pre-auth-RCE-exploit-master)
 
 
 
