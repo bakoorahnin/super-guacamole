@@ -72,6 +72,8 @@ I.[phpweb前台任意文件上传-getshell](https://www.buaq.net/go-19673.html)
 
 I.[Phpweb-Getshell-py](https://github.com/xiazibet/super-guacamole/tree/master/Phpweb-Getshell-py) 
 
+I.[新版74cms v4.2.126-因任意文件读取漏洞导致的任意用户密码修改漏洞](https://github.com/xiazibet/super-guacamole/tree/master/%E6%96%B0%E7%89%8874cms%20v4.2.126-%E5%9B%A0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%E5%AF%BC%E8%87%B4%E7%9A%84%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9%E6%BC%8F%E6%B4%9E) 
+
 
 I.[实战测试有人聚合盒子顺手挖了个getshell漏洞](https://forum.90sec.com/t/topic/668)
 
