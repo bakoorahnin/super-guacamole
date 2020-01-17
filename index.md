@@ -18,6 +18,8 @@ new TG @joker_qian
 ## 代码审计（2020）
 I.[动态调试 Maccms SQL 注入分析 附注入盲注脚本](https://github.com/xiazibet/super-guacamole/blob/master/Maccms-sql-injection-analysis.md)
 
+## 脚本编写（2020）
+[zoomeye钟馗之眼接口调用，关键字搜索 ](https://github.com/xiazibet/super-guacamole/blob/master/zoomeye.md) 
 
 ## 0x01
 [CyBRICS CTF Quals 2019 Web Writeup](./pdfs/CyBRICS CTF Quals 2019 Web 题解.pdf)
