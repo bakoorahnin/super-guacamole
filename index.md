@@ -121,6 +121,7 @@ I.[Joomla-3.4.6 --- configuration.php-远程代码执行](https://github.com/xia
 
 I.[vBulletin-5.x-0day-pre-auth-RCE漏洞](https://github.com/xiazibet/super-guacamole/tree/master/vBulletin-5.x-0day-pre-auth-RCE-exploit-master)
 
+I.[pyspider未授权访问](https://github.com/xiazibet/super-guacamole/tree/master/pyspider%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE)
 
 
 
