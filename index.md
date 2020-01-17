@@ -51,12 +51,12 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 [thinkphp6.0特定情况getshell之poc还原](https://forum.90sec.com/t/topic/706)
 
 ## 0x00
-[CVE-2019-9829：Maccms苹果CMS后台GetShell漏洞](./pdfs/Maccms-v10.md)  
-[批量查找SQL注入小技巧](https://www.freebuf.com/column/223436.html)  
-[Weblogic一键漏洞检测工具，V1.3](https://github.com/rabbitmask/WeblogicScan)  
-[潮汐在线指纹识别系统](http://finger.tidesec.net/)  
-[分布式Web扫描平台](https://github.com/TideSec/WDScanner)  
-[潮巡自动化漏洞挖掘平台](https://github.com/TideSec/TideScout)
+- [CVE-2019-9829：Maccms苹果CMS后台GetShell漏洞](./pdfs/Maccms-v10.md)  
+- [批量查找SQL注入小技巧](https://www.freebuf.com/column/223436.html)  
+- [Weblogic一键漏洞检测工具，V1.3](https://github.com/rabbitmask/WeblogicScan)  
+- [潮汐在线指纹识别系统](http://finger.tidesec.net/)  
+- [分布式Web扫描平台](https://github.com/TideSec/WDScanner)  
+- [潮巡自动化漏洞挖掘平台](https://github.com/TideSec/TideScout)
 - [一键ThinkPHP漏洞检测,基于Python3](https://github.com/xiazibet/super-guacamole/tree/master/TPscan)
 - [一款有图形界面的RDP(3389)口令检测工具](https://github.com/xiazibet/super-guacamole/tree/master/%E4%B8%80%E6%AC%BE%E6%9C%89%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E7%9A%84RDP(3389)%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7)
 
