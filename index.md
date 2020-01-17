@@ -102,6 +102,8 @@ I.[Ueditor php版鸡肋getshell](https://www.jianshu.com/p/dd6b94f2a955)
 
 I.[代码审计之seacms v6.54 前台Getshell 复现分析](https://www.icode9.com/content-3-285556.html)
 
+I.[Joomla-3.4.6 --- configuration.php-远程代码执行](https://github.com/xiazibet/super-guacamole/tree/master/Joomla-3.4.6---configuration.php-Remote-Code-Execution-master)
+
 
 
 
