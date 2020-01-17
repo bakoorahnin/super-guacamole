@@ -68,7 +68,9 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 
 ## 0x000 
 
-I.[phpweb前台任意文件上传-getshell](https://www.buaq.net/go-19673.html) 
+I.[phpweb前台任意文件上传-getshell](https://www.buaq.net/go-19673.html)
+
+I.[phpweb利用和Getshell检测工具(易语言)](https://forum.90sec.com/t/topic/707) 
 
 I.[Phpweb-Getshell-py](https://github.com/xiazibet/super-guacamole/tree/master/Phpweb-Getshell-py) 
 
