@@ -78,6 +78,7 @@ I.[新版74cms v4.2.126-任意文件读取漏洞](https://github.com/xiazibet/su
 
 I.[Apache Flink仪表板未授权访问-远程代码命令执行](https://github.com/xiazibet/super-guacamole/tree/master/Apache%20Flink%E4%BB%AA%E8%A1%A8%E6%9D%BF%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C)
 
+I.[Metinfo-6.1.2-SQL注入脚本](https://github.com/xiazibet/super-guacamole/tree/master/Metinfo-6.1.2-SQL%E6%B3%A8%E5%85%A5)
 
 
 
