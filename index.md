@@ -39,7 +39,7 @@ II. [ThinkPHP 5.2反序列化利用链学习](./pdfs/[TP系列II]ThinkPHP 5.2反
 III.[ThinkPHP 6.0反序列化利用链学习](./pdfs/[TP系列III]ThinkPHP 6.0反序列化利用链学习.html)  
 IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反序列化利用链学习.html)  
 
-## 0x03
+## 0x03-thinkphp6.0
 [ThinkPHP 6.0.1 漏洞分析](./pdfs/ThinkPHP 6.0.1 漏洞分析.html)  
 
 [ThinkPHP6任意文件操作漏洞,影响版本ThinkPHP6.0.0-6.0.1](https://github.com/Loneyers/ThinkPHP6_Anyfile_operation_write)
@@ -47,6 +47,8 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 [ThinkPHP6.0 任意文件操作漏洞之带POC的靠谱分析](https://woj.app/6032.html)
 
 [详细分析 ThinkPHP 的历史漏洞](https://github.com/Mochazz/ThinkPHP-Vuln)
+
+[thinkphp6.0特定情况getshell之poc还原](https://forum.90sec.com/t/topic/706)
 
 ## 0x00
 [CVE-2019-9829：Maccms苹果CMS后台GetShell漏洞](./pdfs/Maccms-v10.md)  
