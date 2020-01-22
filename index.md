@@ -50,7 +50,7 @@ III.[ThinkPHP 6.0反序列化利用链学习](./pdfs/[TP系列III]ThinkPHP 6.0�
 IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反序列化利用链学习.html)  
 
 ## 0x03-thinkphp6.0
-[ThinkPHP 6.0.1 漏洞分析](./pdfs/ThinkPHP 6.0.1 漏洞分析.html)  
+[ThinkPHP 6.0.1 漏洞分析](./pdfs/ThinkPHP 6.0.1 漏洞分析.html)
 
 [ThinkPHP6任意文件操作漏洞,影响版本ThinkPHP6.0.0-6.0.1](https://github.com/Loneyers/ThinkPHP6_Anyfile_operation_write)
 
