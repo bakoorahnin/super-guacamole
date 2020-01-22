@@ -12,6 +12,8 @@ new TG @joker_qian
 
 [K8哥哥’s Blog](http://k8gege.org/) 
 
+[应急响应实战笔记](https://super-love-k.gitbook.io/super-love-k/)
+
 ## 请善用搜索[`Ctrl+F`]查找   
 搜集有关渗透测试中用python编写的POC、脚本 、文章
 
