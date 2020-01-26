@@ -91,7 +91,7 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 - [7kbscan-WebPathBrute Web路径暴力探测工具](https://github.com/7kbstorm/7kbscan-WebPathBrute)  
 - [WebLogic_CNVD_C2019_48814](https://github.com/7kbstorm/WebLogic_CNVD_C2019_48814)  
 - [7kbScan 之 WordPressSniper 原创WordPress爆破工具](https://www.7kb.org/1354.html) 
-- [<u>Struts2漏洞扫描利用工具 - Golang版. Struts2 Scanner Written in Golang</u>][](https://github.com/x51/STS2G)
+- [Struts2漏洞扫描利用工具 - Golang版. Struts2 Scanner Written in Golang](https://github.com/x51/STS2G)
 
 
 ## 0x000 
