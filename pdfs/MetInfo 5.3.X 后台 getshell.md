@@ -25,6 +25,7 @@ inurl:message/message.php?lang=
 inurl:link/addlink.php?lang=
 inurl:job/cv.php?lang=&selectedjob=
 inurl:/news/shownews.php?lang=cn&id=
+
 静态采集
 inurl:news/-cn.html
 inurl:news/news.html
