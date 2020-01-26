@@ -46,6 +46,10 @@ I.[动态调试 Maccms SQL 注入分析 附注入盲注脚本](https://github.co
 
 [phpmyadmin getshell姿势](https://xz.aliyun.com/t/3283)
 
+## MetInfo 
+[MetInfo 5.3.X 后台 getshell](./pdfs/MetInfo 5.3.X 后台 getshell.md)
+
+
 
 ## 0x02
 ThinkPHP 反序列化学习  
