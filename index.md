@@ -50,6 +50,13 @@ I.[动态调试 Maccms SQL 注入分析 附注入盲注脚本](https://github.co
 
 [记一次渗透棋牌APP实录](BC/记一次渗透棋牌APP实录.md)
 
+[记一次德州扑克深入测试](https://www.t00ls.net/thread-55311-1-1.html)
+
+[记一次Xss打到BC站后台](https://www.t00ls.net/thread-55324-1-1.html)
+
+## 免杀
+
+[探讨新技术背景下的一句话免杀](https://www.anquanke.com/post/id/197624)
 
 
 ## phpMyAdmin
@@ -85,6 +92,9 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 [详细分析 ThinkPHP 的历史漏洞](https://github.com/Mochazz/ThinkPHP-Vuln)
 
 [thinkphp6.0特定情况getshell之poc还原](https://forum.90sec.com/t/topic/706)
+
+[ThinkPHP框架漏洞梳理](https://mp.weixin.qq.com/s/m3B-tzC8EIP9VV9HAt3Y9w)
+
 
 ## 0x00
 
