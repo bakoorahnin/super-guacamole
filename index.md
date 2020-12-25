@@ -40,7 +40,7 @@ I.[动态调试 Maccms SQL 注入分析 附注入盲注脚本](https://github.co
 
 [老司机带你过常规WAF](https://www.anquanke.com/post/id/102852 )
 
-[收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力.](https://github.com/xiazibet/super-guacamole/blob/master/%E6%94%B6%E9%9B%86%E4%B8%80%E4%BA%9B%E6%AF%94%E8%BE%83%E4%BC%98%E7%A7%80%E7%9A%84%E5%BC%80%E6%BA%90%E5%AE%89%E5%85%A8%E9%A1%B9%E7%9B%AE%EF%BC%8C%E4%BB%A5%E5%B8%AE%E5%8A%A9%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E4%BB%8E%E4%B8%9A%E4%BA%BA%E5%91%98%E6%9E%84%E5%BB%BA%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%83%BD%E5%8A%9B.md)
+[收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力.](https://github.com/xiazibet/super-guacamole/blob/master/收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力.md)
 
 ## BC
 
